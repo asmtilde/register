@@ -1,0 +1,10 @@
+{
+    "description": "My personal developer website",
+    "repo": "https://github.com/asmtilde/asmtilde.github.io",
+    "owner": {
+        "username": "asmtilde",
+    },
+    "record": {
+        "CNAME": "asmtilde.github.io"
+    }
+}
